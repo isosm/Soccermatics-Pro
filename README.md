@@ -1,67 +1,33 @@
-# Declan Rice Euro 2024 Performance Analysis
+# Soccermatics Pro
 
-This project analyzes Declan Rice's performance during Euro 2024, focusing on his key actions, statistical significance, and impact on England's midfield.
+## Overview
+Soccermatics Pro is an advanced course in football analytics that combines mathematics, statistics, and machine learning to provide deep insights into the beautiful game. Led by David Sumpter, author of Soccermatics, this course equips participants with the technical Python skills needed for a career in football data science.
 
-## Project Overview
+## Course Structure
 
-This analysis includes:
-1. Visualization of key actions and their importance
-2. Statistical comparison with other midfielders
-3. Detailed passing and positioning analysis
-4. Performance metrics in context
+### Assignment 1: Player Analysis
+- Detailed analysis of Declan Rice using event data
+- Python visualization techniques for player performance
+- Statistical evaluation of midfielder capabilities
 
-## Key Features
+### Assignment 2: Expected Threat (xT) Analysis
+- Implementation of xT models
+- Advanced data visualization in football context
+- Machine learning applications in match analysis
 
-- Pass maps and heatmaps showing spatial distribution
-- Progressive passing analysis
-- Defensive action visualization
-- Statistical comparisons with other tournament midfielders
-- Detailed match-by-match analysis
+### Assignment 3: Match Analysis
+- Deep dive into Rodri's UCL final performance
+- Tactical and statistical match evaluation
+- Professional report generation
 
-## Dependencies
-
-- Python 3.8+
-- mplsoccer
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- statsbomb (for data access)
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the analysis script:
-```bash
-python declan_rice_analysis.py
-```
+## Technical Stack
+- Python for data analysis and visualization
+- Statistical modeling and machine learning
+- Event and tracking data analysis
+- Advanced visualization techniques
 
 ## Data Sources
+The project utilizes professional football data from leading providers, including event data and tracking data. Note: Raw data files are not included in this repository due to size and licensing restrictions.
 
-- StatsBomb open data
-- Euro 2024 match data
-
-## Visualizations
-
-The project includes several visualization types:
-1. Pass Maps
-2. Progressive Pass Heatmaps
-3. Defensive Action Charts
-4. Statistical Comparison Plots
-
-## Analysis Methodology
-
-The analysis focuses on:
-- Pass completion rates and patterns
-- Progressive passing impact
-- Defensive positioning and recoveries
-- Statistical significance testing against other midfielders
-
-## Results
-
-Detailed findings and insights about Declan Rice's tournament performance will be documented here after analysis completion.
+## Author
+Ishaq Osman
